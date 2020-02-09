@@ -1,0 +1,31 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/SIHao/IdeaProjects/AirportPageRank/target/scala-2.11/airportpagerank_2.11-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/SIHao/IdeaProjects/AirportPageRank/target/scala-2.11/classes[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PageRank$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/SIHao/IdeaProjects/AirportPageRank/target/scala-2.11/classes/PageRank$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PageRank$$anonfun$main$1$$anonfun$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/SIHao/IdeaProjects/AirportPageRank/target/scala-2.11/classes/PageRank$$anonfun$main$1$$anonfun$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PageRank$$anonfun$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/SIHao/IdeaProjects/AirportPageRank/target/scala-2.11/classes/PageRank$$anonfun$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PageRank$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/SIHao/IdeaProjects/AirportPageRank/target/scala-2.11/classes/PageRank$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PageRank$$anonfun$main$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/SIHao/IdeaProjects/AirportPageRank/target/scala-2.11/classes/PageRank$$anonfun$main$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PageRank$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/SIHao/IdeaProjects/AirportPageRank/target/scala-2.11/classes/PageRank$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PageRank$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/SIHao/IdeaProjects/AirportPageRank/target/scala-2.11/classes/PageRank$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PageRank$$anonfun$main$1$$anonfun$apply$mcVI$sp$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/SIHao/IdeaProjects/AirportPageRank/target/scala-2.11/classes/PageRank$$anonfun$main$1$$anonfun$apply$mcVI$sp$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PageRank.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/SIHao/IdeaProjects/AirportPageRank/target/scala-2.11/classes/PageRank.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ForTest.csv[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/SIHao/IdeaProjects/AirportPageRank/target/scala-2.11/classes/ForTest.csv[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PageRank$$anonfun$main$1$$anonfun$apply$mcVI$sp$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/SIHao/IdeaProjects/AirportPageRank/target/scala-2.11/classes/PageRank$$anonfun$main$1$$anonfun$apply$mcVI$sp$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DataSet.csv[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/SIHao/IdeaProjects/AirportPageRank/target/scala-2.11/classes/DataSet.csv[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PageRank$$anonfun$main$1$$anonfun$4$$anonfun$apply$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/SIHao/IdeaProjects/AirportPageRank/target/scala-2.11/classes/PageRank$$anonfun$main$1$$anonfun$4$$anonfun$apply$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
