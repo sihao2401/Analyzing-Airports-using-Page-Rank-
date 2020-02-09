@@ -1,8 +1,8 @@
 # Analyzing Airports using Page Rank Algorithm
 
 * Environment:
-  scalaVersion = "2.11.8"
-  sparkVersion = "2.2.1"
+  - scalaVersion = "2.11.8"
+  - sparkVersion = "2.2.1"
 
 * How To Run it:
 
